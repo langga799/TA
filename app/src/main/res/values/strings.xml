@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MaggoKit App</string>
+    <string name="monitoring">Monitoring</string>
+    <string name="kandang_maggot">Kandang Maggot</string>
+    <string name="suhu">Suhu</string>
+    <string name="kelembaban">Kelembaban</string>
+</resources>
